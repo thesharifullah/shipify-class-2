@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+}
+
+.header{
+
+}
+
+.announcement{
+    text-align: center;
+    background-color: black;
+    }
+
+.announcement p {
+    color: aqua;
+    margin: 0;
+    padding: 10px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mrnu ul li{
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #000000;
+    padding: 9px;
+    font-size: 32px;
+    display: block;
+}
